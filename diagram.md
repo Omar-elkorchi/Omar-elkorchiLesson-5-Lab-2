@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Sunny day] -->|Good conditions for surfing| B(Go surfing)
     B --> C{Choose a convenient spot}
